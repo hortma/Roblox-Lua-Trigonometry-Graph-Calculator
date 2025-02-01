@@ -1,5 +1,6 @@
-Roblox Trigonometry Graph Calculator!
+# Trigonometry Formula #
 
-You can use it for your own projects or change it however you want.
+* Requirements: *
+- Roblox Studio (to run the code)
 
-- Arthur
+The formula being used as default is a Periodic Function, where you can edit the Amplitude, Period, Phase Shift and Frequency of the wave.
