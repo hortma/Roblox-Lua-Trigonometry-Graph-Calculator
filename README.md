@@ -1,4 +1,4 @@
-# Trigonometry Formula #
+# Periodic Function Wave Calculator #
 
 ** Requirements: **
 - Roblox Studio (to run the code)
